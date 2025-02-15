@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieExplorerByYL</string>
+    <string name="enter_movie_title">Enter movie title</string>
+    <string name="search">Search</string>
+</resources>
